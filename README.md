@@ -33,6 +33,6 @@ usage: predict.py -t clothes -i input_path -o output_path
 
 
 ### Acknowledgement
-[pytorch-deeplab-xception]https://github.com/jfzhang95/pytorch-deeplab-xception)
+[pytorch-deeplab-xception]https://github.com/jfzhang95/pytorch-deeplab-xception
 
 
